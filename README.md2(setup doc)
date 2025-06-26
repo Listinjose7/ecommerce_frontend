@@ -1,0 +1,29 @@
+# 🎨 E-Commerce Frontend (React + Redux-Saga)
+
+A modern e-commerce web frontend built with **React**, **Redux**, **Redux-Saga**, **Tailwind CSS**, and **Axios**.
+
+---
+
+## 📌 Tech Stack
+
+- React 18+
+- Redux Toolkit
+- Redux-Saga
+- React Router DOM 6+
+- Axios
+- Tailwind CSS
+
+---
+
+## 📦 Prerequisites
+
+- **Node.js** ≥ 18.x
+- **NPM** ≥ 9.x (or yarn)
+
+---
+
+## 📦 Project Setup
+
+1️⃣ Install dependencies:
+```bash
+npm install
